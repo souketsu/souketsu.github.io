@@ -1,36 +1,66 @@
-## Welcome to The Fool 
+# The Fool [0]
+
+欢迎来到我的空间
+
+<!-- slide -->
+
+## About ME
+
+- Address: **暂时未填写**
+- Site: **<https://blog.souketsu.com>**
+
+<!-- slide vertical=true -->
+
+- E-mail:
+  - **c838514314@gmali.com**
+  - [**](mailto:wukan3@mail2.sysu.edu.cn)**
+  
+
+<!-- slide -->
+
+## 
+
+<!-- slide -->
+
+## 我的一些项目成果
+
+<!-- slide vertical=true -->
+
+  
+
+<!-- slide -->
+
+## 
+
+<!-- slide vertical=true -->
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<!-- slide vertical=true -->
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **Third Scholarship**, Oct. 2018
+- **First Prize**, China Collegiate Programming Contest, Guangdong Division, May 2018
 
-```markdown
-Syntax highlighted code block
+<!-- slide -->
 
-# Header 1
-## Header 2
-### Header 3
+## 
 
-- Bulleted
-- List
+<!-- slide vertical=true -->
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+<!-- slide vertical=true -->
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+<!-- slide -->
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/souketsu/souketsu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+<!-- slide -->
+
+## 
+
+<!-- slide vertical=true -->
+
